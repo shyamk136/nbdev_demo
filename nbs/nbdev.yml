@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_demo"
+  site-url: "https://shyamk136.github.io/nbdev_demo"
+  description: "Demo project on how to use nbdev."
+  repo-branch: main
+  repo-url: "https://github.com/shyamk136/nbdev_demo"
